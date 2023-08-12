@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/juniorrdgs/newsletter-signup-form-with-success-message)
-- Live Site URL: [Add live site URL here](https://juniorrdgs.github.io/newsletter-signup-form-with-success-message)
+- [Solution URL](https://github.com/juniorrdgs/newsletter-signup-form-with-success-message)
+- [Live Site URL](https://juniorrdgs.github.io/newsletter-signup-form-with-success-message)
 
 ### Built with
 
@@ -44,4 +44,4 @@ Users should be able to:
 ## Author
 
 - Github - [@juniorrdgs](https://github.com/juniorrdgs)
-- Frontend Mentor - [@junior.rdgs](https://www.frontendmentor.io/profile/juniorrdgs)
+- Frontend Mentor - [@juniorrdgs](https://www.frontendmentor.io/profile/juniorrdgs)
